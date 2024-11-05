@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqikeibu.github.io/CKF/sitemap_index.txt
+Sitemap: https://oqikeibu.github.io/Rhc/sitemap_index.txt
+Sitemap: https://oqikeibu.github.io/liZ/sitemap_index.txt
+Sitemap: https://oqikeibu.github.io/uwg/sitemap_index.txt
